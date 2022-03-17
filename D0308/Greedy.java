@@ -10,7 +10,7 @@ public class Greedy {
         list.add(new Action("A", 7, 8));
         list.add(new Action("B", 5, 7));
         list.add(new Action("C", 3, 6));
-        list.add(new Action("D", 1, 2));
+        list.add(new Action("D0317", 1, 2));
         list.add(new Action("E", 6, 9));
         list.add(new Action("F", 10, 11));
 
