@@ -1,4 +1,4 @@
-package Q0323;
+package D0323;
 
 import java.io.BufferedReader;
 import java.io.IOException;
